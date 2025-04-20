@@ -14,6 +14,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
+## 📊 GitHub Stats
+
+![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshit4681&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit4681&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Harshit4681&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harshit4681&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ✨ _Let’s build something amazing together!_
